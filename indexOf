@@ -1,0 +1,10 @@
+
+index Array(array argv(), args[]){
+var  = ["n"]
+    o["n"](x,y);    // This is a  way to write o.n(x,y).
+    a[O](z)         // This is a method invocation ( a[O] is a new function).
+    {
+        customer.srnano.toupperCase();  // Invoke this method on customersrnano
+        f().n();                        // Invoke this customersrnano n() on  return value of f()
+    }
+}
